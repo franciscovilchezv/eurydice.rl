@@ -1,0 +1,49 @@
+\documentclass[]{article}
+\usepackage[numbers]{natbib}
+\usepackage{hyperref}
+% \usepackage{hypcap} 
+\usepackage{graphicx}
+\usepackage[margin=1.3in]{geometry}
+
+\graphicspath{ {Figures/} }
+
+\makeatletter
+\renewcommand\maketitle {
+  \begin{center}
+    {\Large{\course}}
+    \medskip\par\noindent
+    {\Large\textbf{\@title}}
+    \medskip\par\noindent
+    {\Large\@author}
+    \medskip\par\noindent
+    {\Large\@date}
+    \bigskip\par\noindent
+  \end{center}
+}
+\makeatother
+
+\newcommand{\course}{CSCE 790-002: Deep Reinforcement Learning and Search}
+\title{Musical Reinforcement Learning}
+\author{Francisco Vilchez}
+
+\begin{document}
+
+\maketitle
+
+\section*{Introduction}
+\input{Sections/Introduction}
+
+\section*{Approach}
+\input{Sections/Approach}
+
+\section*{Evaluation}
+\input{Sections/Evaluation}
+
+\section*{Conclusion}
+\input{Sections/Conclusion}
+
+\section*{References}
+\bibliographystyle{apalike}
+\bibliography{fvilchez}
+
+\end{document}
