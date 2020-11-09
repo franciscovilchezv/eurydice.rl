@@ -7,6 +7,8 @@ from random import random, choice
 import numpy as np
 
 import time
+import joblib
+import os
 
 class InteractiveComposer:
   def __init__(self, env: MusicWorld):
@@ -23,17 +25,11 @@ class InteractiveComposer:
     
     curr_state = CompositionState(self.start_composition)
 
-    composition = [curr_state]
     for itr in range(num_steps):
       action: Note = max(self.action_vals[curr_state], key=self.action_vals[curr_state].get)
 
       curr_state, _ = self.env.sample_transition(curr_state, action)
 
-      # composition.append(curr_state)
-
-    # for comp in composition:
-      # print(comp)
-    
     print(curr_state)
     for note in curr_state.composition_notes:
       note.play()
@@ -52,7 +48,15 @@ class InteractiveComposer:
     
     self.action_vals[state][action] = val
 
-  def q_learning(self, epsilon: float, learning_rate: float):
+  def q_learning(self, epsilon: float, learning_rate: float, episodes: int, model: str, step: int):
+
+    if(model):
+      if os.path.isfile('models/%s.pkl' % model):
+        print("Model '%s' loaded" % ('models/%s.pkl' % model))
+        self.action_vals = joblib.load('models/%s.pkl' % model)
+      else:
+        print("Model '%s' does not exist, one will be created" % ('models/%s.pkl' % model))
+
     print("q-learning")
     state: CompositionState = CompositionState(self.start_composition)
 
@@ -64,10 +68,10 @@ class InteractiveComposer:
       if (self.env.is_terminal(state)):
         episode_num = episode_num + 1
 
-        if (episode_num % 500 == 0):
+        if (episode_num % step == 0):
           self.greedy_policy_vis(8)
         
-        if (episode_num == 5000):
+        if (episode_num == episodes):
           break
 
         state = CompositionState(self.start_composition) # restart to initial state
@@ -76,7 +80,11 @@ class InteractiveComposer:
 
       state = self.q_learning_step(state, epsilon, learning_rate)
     
+    if(model):
+      joblib.dump(self.action_vals, 'models/%s.pkl' % model)
+    
     print("DONE")
+
 
   def q_learning_step(self, state: CompositionState, epsilon: float, learning_rate: float):
     action: Note = self.get_random_action(state, epsilon)
