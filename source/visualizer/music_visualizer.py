@@ -28,12 +28,10 @@ class InteractiveComposer:
     for itr in range(num_steps):
       action: Note = max(self.action_vals[curr_state], key=self.action_vals[curr_state].get)
 
-      curr_state, _ = self.env.sample_transition(curr_state, action)
+      curr_state, _, _ = self.env.sample_transition(curr_state, action)
 
     print(curr_state)
-    for note in curr_state.composition_notes:
-      note.play()
-
+    curr_state.play()
     time.sleep(1)
 
   def get_action_val(self, state: CompositionState, action: Note) -> float:
@@ -64,7 +62,8 @@ class InteractiveComposer:
 
     print("Q-learning, episode %i" % episode_num)
 
-    while(True):
+    continuation = True
+    while(continuation):
       if (self.env.is_terminal(state)):
         episode_num = episode_num + 1
 
@@ -78,7 +77,7 @@ class InteractiveComposer:
 
         print("Q-learning, episode %i" % episode_num)
 
-      state = self.q_learning_step(state, epsilon, learning_rate)
+      state, continuation = self.q_learning_step(state, epsilon, learning_rate)
     
     if(model):
       joblib.dump(self.action_vals, 'models/%s.pkl' % model)
@@ -89,12 +88,15 @@ class InteractiveComposer:
   def q_learning_step(self, state: CompositionState, epsilon: float, learning_rate: float):
     action: Note = self.get_random_action(state, epsilon)
 
-    (state_next, reward) = self.env.sample_transition(state, action)
+    (state_next, reward, continuation) = self.env.sample_transition(state, action)
+
+    if (not continuation):
+      return state_next, continuation
     
     new_q_value = self.get_action_val(state, action) + learning_rate * (reward + ( self.discount * self.get_max_q_value_for_state(state_next) ) - self.get_action_val(state, action))
     self.set_action_val(state, action, new_q_value)
 
-    return state_next
+    return state_next, continuation
 
   def get_random_action(self, state: CompositionState, epsilon: float) -> Note:
     r : float = random()

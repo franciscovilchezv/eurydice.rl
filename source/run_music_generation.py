@@ -5,15 +5,16 @@ from argparse import ArgumentParser
 
 def main():
   parser: ArgumentParser = ArgumentParser()
-  parser.add_argument('--epsilon', type=float, default=0, help="randomness in action")
+  parser.add_argument('--epsilon', type=float, default=0.1, help="randomness in action")
   parser.add_argument('--discount', type=float, default=1, help="learning rate")
   parser.add_argument('--episodes', type=int, default=5000, help="number of training episodes")
   parser.add_argument('--model', type=str, default="", help="loads and persists model in file")
   parser.add_argument('--step', type=int, default=100, help="visualize results after a number of steps")
+  parser.add_argument('--interactive_mode', action="store_true", help="interact with user for learning")
 
   args = parser.parse_args()
 
-  env : MusicWorld = MusicWorld()
+  env : MusicWorld = MusicWorld(args.interactive_mode)
 
   viz: InteractiveComposer = InteractiveComposer(env)
 

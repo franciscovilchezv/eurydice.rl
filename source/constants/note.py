@@ -6,6 +6,12 @@ player = musicalbeeps.Player(volume = 0.3, mute_output = False)
 class Symbol(Enum):
   NAN: int = -1
 
+  def __bool__(self):
+    return self != self.NAN
+
+  def play(self):
+    return
+
 class Note(Enum):
   C4: int = 0
   D4: int = 1
