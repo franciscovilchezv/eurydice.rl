@@ -44,7 +44,7 @@ class CompositionState():
       print("Type your feedback good(g), bad(b), neutral(n), stop(s): ", end="")
       feedback = input()
       if (feedback == "g"):
-        return 1.0, True
+        return 10.0, True
       elif (feedback == "b"):
         return -100.0, True
       elif (feedback == "s"):
@@ -60,7 +60,7 @@ class CompositionState():
       if (prev_note == Symbol.NAN):
         return 0.0, True
       elif (prev_note > note):
-        return 1.0, True
+        return 10.0, True
       
       return -100.0, True
 

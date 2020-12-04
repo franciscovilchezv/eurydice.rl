@@ -9,6 +9,9 @@ class Symbol(Enum):
   def __bool__(self):
     return self != self.NAN
 
+  def __int__(self):
+    return self.value
+
   def play(self):
     return
 
@@ -33,6 +36,9 @@ class Note(Enum):
 
   def __ge__(self, other):
     return self.value >= other.value
+
+  def __int__(self):
+    return self.value
 
   def play(self):
     player.play_note(self.name, 0.4)
