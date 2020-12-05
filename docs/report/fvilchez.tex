@@ -1,0 +1,70 @@
+\documentclass[]{article}
+\usepackage[numbers]{natbib}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,allcolors=blue}
+\usepackage{hypcap} 
+\usepackage{graphicx}
+\usepackage[margin=1.3in]{geometry}
+
+
+\graphicspath{ {Figures/} }
+
+\makeatletter
+\renewcommand\maketitle {
+  \begin{center}
+    {\Large{\course}}
+    \medskip\par\noindent
+    {\Large\textbf{\@title}}
+    \medskip\par\noindent
+    {\Large\@author}
+    \medskip\par\noindent
+    {\Large\@date}
+    \bigskip\par\noindent
+  \end{center}
+}
+\makeatother
+
+\newcommand{\course}{CSCE 790-002: Deep Reinforcement Learning and Search}
+\title{Musical Deep Reinforcement Learning}
+\author{Francisco Vilchez}
+
+\begin{document}
+
+\maketitle
+
+% Deep Reinforcement learning to music: \cite{deeprl2016music}
+% Plain results, seems that it never changes key
+
+% Google results (magenta): \cite{magenta2018}
+
+% Connectionist old explanation: \cite{connectionist1989}
+
+% RRN in music (blues): \cite{eck2002blues}
+% Not good results. Sounds weird
+% too many jumps
+% seems that it is not fitting in the chord
+
+% Evaluation is relative: \cite{biles2013lessons}
+
+\section*{Abstract}
+\input{Sections/Abstract}
+
+\section*{Introduction}
+\input{Sections/Introduction}
+
+\section*{Related Work}
+\input{Sections/Related_Work}
+
+\section*{Approach}
+\input{Sections/Approach}
+
+\section*{Experimental Results}
+\input{Sections/Experimental_Results}
+
+\section*{Conclusion}
+\input{Sections/Conclusion}
+
+\bibliographystyle{unsrtnat}
+\bibliography{fvilchez}
+
+\end{document}

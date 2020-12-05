@@ -1,0 +1,9 @@
+As mentioned before, \emph{q-learning} has been applied so far in this project. We were able to teach the computer what sequence of notes would have a pleasant sound according to our criteria, and by applying a greedy search the computer was able to generate those results successfully. The original approach from our project proposal has been followed; however, some constraints were applied. We will keep improving them in order to get better results and get to the expected result. Some of the constraints applied are detailed below:
+
+\begin{description}
+  \item [Note representation] A specific number for each note is being used at the moment instead of the note's grade, which will be changed in the next releases.
+  \item [State] Even though we have the intention to include more musical information in the state, e.g. duration of the note and tonality, we reduced this to just the note as a starting point for the project. Because of that, all the ``melodies'' generated so far have the same duration. Additionally, we have constrained the amount of notes that can be generated, so our ``melodies'' always have the same amount of notes for now.
+  \item [RNN] A recurrent neural network have not been used to store the \emph{(action, state)} values. Instead, they have been stored in a matrix. Future releases will try to include this requirement in order to get better results.
+  \item [Monte Carlo] As mentioned, \emph{q-learning} had been used so far in our algorithm. We expect to change this in the future in order to improve our results.
+  \item [Transition reward] The interaction between human-computer for giving the rewards have been implemented. However, for testing purposes, we have created automated rewards in order to accelerate the learning process during testing. Additionally, the learning values of our model are not being persisted yet, which is still pending to implement.
+\end{description}

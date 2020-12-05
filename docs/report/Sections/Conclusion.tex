@@ -1,0 +1,13 @@
+We are expecting to complete the following changes in the future releases in order to improve our results:
+
+\begin{itemize}
+  \item 11/8: Persist the \emph{(state, action)} values for future training. The matrix of values could be stored in a file for continuing the training later.
+  \item 11/15: Enable different durations for notes. We plan to include the duration of the note in the state.
+  \item 11/25: Finish project presentation and report.
+  \item Desirable: Start using relative values instead of the notes itself. We need to modify the values for our notes in our state based on a melodies tonality. The tonality initially will be an hyperparameter in our algorithm.
+  \item Desirable: Include \emph{chords} in the composition process. This will enable us to translate the notes based on the chord and not in the tonality hyperparameter. We are planning to include the chord as part of the state.
+  \item Desirable: Include Neural Network with our q-learning learning algorithm. The approach will follow the process from the assignments using PyTorch.
+  \item Desirable: Start using RNN and Monte Carlo for the learning process. More research will be necessary in order to determine the effort needed for this task.
+\end{itemize}
+
+Based on the progress done so far, we have been able to adapt the musical composition problem to a Reinforcement Learning scenario. We were able to use \emph{q-learning} in order to learn \emph{musical policies} that allow us to know which note should follow a previous sequence of notes. We were able to test how our algorithm learn based on the input provided by the user, and we included an automated test in order to verify that the algorithm was adequately learning the appropriate values for each \emph{(state, action)}. Finally, we detailed the future enhancements that we are planing to include for the future releases of our project with its respective methodology and that way improve the results that we are getting in order to get more pleasant melodies.
