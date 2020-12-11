@@ -38,8 +38,8 @@ This section explains how to run each of the functionalities available.
 $ cd source
 $ python run_music_generation.py --help
   usage: run_music_generation.py [-h] [--epsilon EPSILON] [--discount DISCOUNT] 
-  [--episodes EPISODES] [--model MODEL] [--step STEP] [--interactive_mode] [--aprox_q_learning]
-  [--batch_size BATCH_SIZE] [--results]
+  [--episodes EPISODES] [--model MODEL] [--step STEP] [--interactive_mode]
+  [--aprox_q_learning] [--batch_size BATCH_SIZE] [--results]
 
   optional arguments:
     -h, --help            show this help message and exit
