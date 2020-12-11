@@ -1,0 +1,23 @@
+certifi==2020.6.20
+colorama==0.4.4
+cycler==0.10.0
+joblib==0.17.0
+kiwisolver==1.3.1
+matplotlib==3.3.2
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mpmath==1.1.0
+MusicalBeeps==0.2.7
+numpy @ file:///opt/concourse/worker/volumes/live/c646f6b9-b398-438d-7dc7-c7142e0ba44b/volume/numpy_and_numpy_base_1596235504536/work
+olefile==0.46
+Pillow @ file:///opt/concourse/worker/volumes/live/be1e8a56-c4be-4ffe-4fa7-5a0e9c460b1a/volume/pillow_1594307312933/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scipy==1.5.3
+simpleaudio==1.0.4
+six==1.15.0
+sympy==1.6.2
+termcolor==1.1.0
+torch==1.6.0
+torchvision==0.7.0
