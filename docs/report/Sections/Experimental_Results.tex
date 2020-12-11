@@ -1,18 +1,116 @@
-Since the learning process that involves the human-computer interaction takes a regular amount of episodes in order to generate results, automated policies where used during training in order to test the functionality of our algorithm. For example, one of the policies that we applied in order to test if our algorithm was learning correctly, was to tell it \emph{not to play any note with a frequency higher than the previous note}. In other words, always play a note with lower pitch that the previous one. In musical terms, what this is trying to teach is a descendant scale. For that, we gave a $ -100 $ reward in case the algorithm played a note higher than the previous one, and a $ +10 $ if it played a note lower than the previous one. We could see that our algorithm was able to learn the optimal policy after $ 1500 $ iterations in average.
+In this project we were able to teach the computer what sequence of notes would have a pleasant sound according to our criteria, and by applying a greedy search the computer was able to generate those results successfully. As mentioned in the previous section, in this project we used Q-learning and Deep Q-learning, each of them gave us different results. We will show the results and discuss them in the following sections. Details regarding how to run each of the functionalities is available in the Github README file\footnote{README file with code details: https://github.com/franciscovilchezv/eurydice.rl/blob/main/README.md}
 
-\begin{figure}[h]
-  \includegraphics[width=\linewidth]{it500.jpg}
-  \caption{Iteration 500: Not efficient policy due to note transitions like C4 to D4 in position 5}
-  \label{fig:it500}
-\end{figure}
+\subsection*{Q-learning}
+Q-learning (storing results in a Q-table) provided the most accurate results for our project. The environment was adapted for testing purposes to only have one optimal policy and the Q-learning algorithm was able to find it. In order to speed up the testing process, an automated reward was generated. In this section we will discuss the results for the automated reward and the human-computer policy.
 
-As we can see in Figure \ref{fig:it500}, the optimal policy was not found yet, since the algorithm is still deciding to use a higher note in the position 6 than the previous note (position 5).
+\subsubsection*{Automated reward}
+A function that rewarded playing a note which was lower than the previous one was created in order to speed up testing during development.
+
+In musical terms, what this is trying to teach is a descendant scale. For that, we gave a $ -100 $ reward in case the algorithm played a note higher than the previous one, and a $ +10 $ if it played a note lower than the previous one. We could see that our algorithm was able to learn the optimal policy after $ 1500 $ iterations in average.
+
+As we can see in Figure \ref{lst:it500}, the optimal policy was not found yet, since the algorithm is still deciding to use a higher note in the position 6 than the previous note (position 5).
+
+\begin{lstlisting}[language=bash, caption=Iteration 500: Not efficient policy due to note transitions like C4 to D4 in position 5., style=mybashcode, upquote=true, label={lst:it500}]
+  Q-learning, episode 499
+  [<Note.C5: 7>, <Note.B4: 6>, <Note.G4: 4>, <Note.E4: 2>, <Note.C4: 0>, <Note.D4: 1>, 
+  <Note.D4: 1>, <Note.E4: 2>]
+  Playing C5 (523.25 Hz) for 0.4s
+  Playing B4 (493.88 Hz) for 0.4s
+  Playing G4 (392.00 Hz) for 0.4s
+  Playing E4 (329.63 Hz) for 0.4s
+  Playing C4 (261.63 Hz) for 0.4s
+  Playing D4 (293.66 Hz) for 0.4s
+  Playing D4 (293.66 Hz) for 0.4s
+  Playing E4 (329.63 Hz) for 0.4s
+\end{lstlisting}
+
+In Listing \ref{lst:it1000} we notice that the algorithm finally found the optimal policy for the scenario that we proposed (each note should be lower than the previous one). Of course, this condition does not have any musical validity, it was only used for testing the learning capability of our algorithm. After this goal was accomplished, we felt confidence enough to start trying the algorithm with human interaction.
+
+\begin{lstlisting}[language=bash, caption=Iteration 1000: Optimal policy. Each note is lower than the previous one., style=mybashcode, upquote=true, label={lst:it1000}]
+  Q-learning, episode 999
+  [<Note.C5: 7>, <Note.B4: 6>, <Note.A4: 5>, <Note.G4: 4>, <Note.F4: 3>, <Note.E4: 2>, 
+  <Note.D4: 1>, <Note.C4: 0>]
+  Playing C5 (523.25 Hz) for 0.4s
+  Playing B4 (493.88 Hz) for 0.4s
+  Playing A4 (440.00 Hz) for 0.4s
+  Playing G4 (392.00 Hz) for 0.4s
+  Playing F4 (349.23 Hz) for 0.4s
+  Playing E4 (329.63 Hz) for 0.4s
+  Playing D4 (293.66 Hz) for 0.4s
+  Playing C4 (261.63 Hz) for 0.4s
+\end{lstlisting}
+  
+\subsection*{Human interaction training}
+For allowing an easy training after an action was taken, our project will display the notes generated so far and played. After that, the user is able to qualify the composition as \emph{Good}, \emph{Bad} or \emph{Neutral}. The process explained looks as shown in Listing \ref{lst:humanqlearn1}:
+
+\begin{lstlisting}[language=bash, caption=Human training for the first transition in an episode, style=mybashcode, label={lst:humanqlearn1}]
+> python run_music_generation.py --step 100 --episodes 200 --interactive_mode
+  No model specified in --model argument. Training wont be saved.
+  q-learning
+  Q-learning, episode 0
+  Playing C5 (523.25 Hz) for 0.4s
+  Type your feedback good(g), bad(b), neutral(n), stop(s): g
+\end{lstlisting}
+
+We were able to teach a more interesting melody which is shown in Figure \ref{fig:thelick} using the human interaction training.
 
 \begin{figure}[ht]
-  \includegraphics[width=\linewidth]{it1000.png}
-  \caption{Iteration 1000: Optimal policy. Each note is lower than the previous one.}
-  \label{fig:it1000}
+  \begin{music}
+    \parindent10mm
+    \startextract
+    \NOtes\qa{defgeecd}\enotes
+    \zendextract
+  \end{music}
+  \caption{A variation of ``The Lick''. A famous Jazz cliche}
+  \label{fig:thelick}
 \end{figure}
 
-In Figure \ref{fig:it1000} we notice that the algorithm finally found the optimal policy for the scenario that we proposed (each note should be lower than the previous one). Of course, this condition does not have any musical validity, it was only used for testing the learning capability of our algorithm.
+We can see the result by using the \lstinline[style=mybashcode]{--results} option, which will run a greedy search and return the best policy that has been found so far as shown in Listing \ref{lst:thelickresult}.
 
+\begin{lstlisting}[language=bash, caption=Playing the optimal policy in the model \emph{thelick}, style=mybashcode, label={lst:thelickresult}]
+> python run_music_generation.py --model thelick --results                   
+  Model 'trainings/thelick.pkl' loaded
+  [<Note.D4: 1>, <Note.E4: 2>, <Note.F4: 3>, <Note.G4: 4>, <Note.E4: 2>, <Note.E4: 2>, 
+  <Note.C4: 0>, <Note.D4: 1>]
+  Playing D4 (293.66 Hz) for 0.4s
+  Playing E4 (329.63 Hz) for 0.4s
+  Playing F4 (349.23 Hz) for 0.4s
+  Playing G4 (392.00 Hz) for 0.4s
+  Playing E4 (329.63 Hz) for 0.4s
+  Playing E4 (329.63 Hz) for 0.4s
+  Playing C4 (261.63 Hz) for 0.4s
+  Playing D4 (293.66 Hz) for 0.4s
+  \end{lstlisting}
+
+Even though the algorithm is correctly learning values for notes, it is difficult to try to teach a second melody and store it in the q-table since the algorithm will act $\epsilon$-greedy. In order to try to store multiple melodies, a different exploration method must be used, otherwise we will always play either the optimal melody during training, or a completely random melody. Additionally, the results should be printed by randomly selecting from the best policies and not always the best policy in order to get some variation in the melodies generated.
+
+The process followed for training ``the lick'' can be found in \emph{thelick.training} log file in Github\footnote{The Lick log: https://github.com/franciscovilchezv/eurydice.rl/blob/main/source/trainings/thelick.training}.
+
+\subsection*{Deep Q-learning}
+After getting good results with Q-learning, we decided to expand it and test its behavior using a Neural Network for storing the values instead of the Q-table. It was executed with the parameters shown in Listing \ref{lst:deepqlearning}.
+
+\begin{lstlisting}[language=bash, caption=Running Deep Q-learning., style=mybashcode, label={lst:deepqlearning}]
+> python run_music_generation_py --aprox_q_learning --step 500 --episodes 5000 --epsilon 0.3
+  Q-learning, episode 0
+  Q-learning, episode 1
+\end{lstlisting}
+
+However, the results were not as good as expected. After running the algorithm with the automated reward in the testing environment with one optimal policy possible, the Deep Q-learning algorithm was not able to find the optimal policy, as we can see in Listing \ref{lst:it4999}.
+
+\begin{lstlisting}[language=bash, caption=Iteration 4999 with Deep Q-learning: Not the optimal policy., style=mybashcode, upquote=true, label={lst:it4999}]
+  Q-learning, episode 4999
+  [<Note.C5: 7>, <Note.B4: 6>, <Note.F4: 3>, <Note.E4: 2>, <Note.C4: 0>, <Note.C5: 7>, 
+  <Note.A4: 5>, <Note.C4: 0>]
+  Playing C5 (523.25 Hz) for 0.4s
+  Playing B4 (493.88 Hz) for 0.4s
+  Playing F4 (349.23 Hz) for 0.4s
+  Playing E4 (329.63 Hz) for 0.4s
+  Playing C4 (261.63 Hz) for 0.4s
+  Playing C5 (523.25 Hz) for 0.4s
+  Playing A4 (440.00 Hz) for 0.4s
+  Playing C4 (261.63 Hz) for 0.4s
+\end{lstlisting}
+
+As we mentioned in previous section, we consider that the conversion of our state to the input of the neural network may not be the optimal, because of that, we are not getting the results that we were expecting. Additionally, the usage of RNN as mentioned in the state of art, could possibly lead to better results. Improvements and trying different methods for Deep Q-learning are still needed in order to continue expanding its capabilities.
+
+Previous works in the area got different results since they are relying on the usage of music theory, which is what we are trying to avoid in the training process since we consider it will provide more \emph{natural} results. Improvements in this project need to be done in order to be competitive with results from the current state of art.

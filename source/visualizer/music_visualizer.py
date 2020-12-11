@@ -18,9 +18,19 @@ from torch.optim.optimizer import Optimizer
 import torch.nn as nn
 
 class InteractiveComposer:
-  def __init__(self, env: MusicWorld):
+  def __init__(self, env: MusicWorld, model: str = ""):
     self.env: MusicWorld = env
     self.action_vals: Dict[CompositionState, Dict[int, float]] = dict() # Using Dict instead of List since total amount of states is unknown
+    self.model = model
+
+    if(self.model):
+      if os.path.isfile('trainings/%s.pkl' % self.model):
+        print("Model '%s' loaded" % ('trainings/%s.pkl' % self.model))
+        self.action_vals = joblib.load('trainings/%s.pkl' % self.model)
+      else:
+        print("Model '%s' does not exist, one will be created" % ('trainings/%s.pkl' % self.model))
+    else:
+      print("No model specified in --model argument. Training won't be saved.")
 
     self.start_composition = [Symbol.NAN] * 8 # TODO: Think about a better representation of non-assigned values
 
@@ -53,14 +63,7 @@ class InteractiveComposer:
     
     self.action_vals[state][action] = val
 
-  def q_learning(self, epsilon: float, learning_rate: float, episodes: int, model: str, step: int):
-
-    if(model):
-      if os.path.isfile('trainings/%s.pkl' % model):
-        print("Model '%s' loaded" % ('trainings/%s.pkl' % model))
-        self.action_vals = joblib.load('trainings/%s.pkl' % model)
-      else:
-        print("Model '%s' does not exist, one will be created" % ('trainings/%s.pkl' % model))
+  def q_learning(self, epsilon: float, learning_rate: float, episodes: int, step: int):
 
     print("q-learning")
     state: CompositionState = CompositionState(self.start_composition)
@@ -86,8 +89,8 @@ class InteractiveComposer:
 
       state, continuation = self.q_learning_step(state, epsilon, learning_rate)
     
-    if(model):
-      joblib.dump(self.action_vals, 'trainings/%s.pkl' % model)
+    if(self.model):
+      joblib.dump(self.action_vals, 'trainings/%s.pkl' % self.model)
     
     print("DONE")
 

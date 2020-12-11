@@ -12,18 +12,22 @@ def main():
   parser.add_argument('--step', type=int, default=100, help="visualize results after a number of steps")
   parser.add_argument('--interactive_mode', action="store_true", help="interact with user for learning")
   parser.add_argument('--aprox_q_learning', action="store_true", help="use NN for aproximate q-learning")
-  parser.add_argument('--batch_size', type=int, default=100, help="size of each batch in the NN")
+  parser.add_argument('--batch_size', type=int, default=100, help="size of each NN batch")
+  parser.add_argument('--results', action="store_true", help="plays the best result so far")
 
   args = parser.parse_args()
 
   env : MusicWorld = MusicWorld(args.interactive_mode)
 
-  viz: InteractiveComposer = InteractiveComposer(env)
+  viz: InteractiveComposer = InteractiveComposer(env, args.model)
 
-  if (args.aprox_q_learning):
-    viz.deep_q_learning(args.epsilon, args.discount, args.batch_size, args.episodes, args.step)
+  if(not args.results):
+    if (args.aprox_q_learning):
+      viz.deep_q_learning(args.epsilon, args.discount, args.batch_size, args.episodes, args.step)
+    else:
+      viz.q_learning(args.epsilon, args.discount, args.episodes, args.step)
   else:
-    viz.q_learning(args.epsilon, args.discount, args.episodes, args.model, args.step)
+    viz.greedy_policy_vis(8)
 
 if __name__ == "__main__":
   main()
