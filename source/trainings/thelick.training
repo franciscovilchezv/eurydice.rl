@@ -2,34 +2,41 @@ Model 'trainings/thelick.pkl' does not exist, one will be created
 q-learning
 Q-learning, episode 0
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
@@ -37,702 +44,854 @@ Playing B4 (493.88 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 1
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 1
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 2
+Type your feedback good(g), bad(b), neutral(n), stop(s): 
+Q-learning, episode 2
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 3
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 3
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 4
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 5
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 6
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 7
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 8
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 9
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 10
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 11
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 12
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 13
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 14
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 15
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 16
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing C4 (261.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing C4 (261.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing C4 (261.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing C4 (261.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing C4 (261.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing C4 (261.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing C4 (261.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 17
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 18
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 19
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 4
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 5
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 6
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 7
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 8
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 9
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 10
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 11
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 12
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 13
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 14
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 15
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 16
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing C4 (261.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing C4 (261.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing C4 (261.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing C4 (261.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing C4 (261.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing C4 (261.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing C4 (261.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 17
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 18
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 19
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
@@ -740,36 +899,44 @@ Playing E4 (329.63 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 20
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 20
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
@@ -777,36 +944,44 @@ Playing E4 (329.63 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 21
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 21
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
@@ -814,36 +989,44 @@ Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 22
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 22
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
@@ -851,36 +1034,44 @@ Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
 Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 23
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 23
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): f
+Playing D4 (293.66 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
@@ -888,36 +1079,44 @@ Playing F4 (349.23 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 24
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 24
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
@@ -925,36 +1124,44 @@ Playing E4 (329.63 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 25
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 25
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
@@ -962,406 +1169,494 @@ Playing E4 (329.63 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 26
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 26
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 27
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 28
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 29
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 30
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 31
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 32
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 33
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 27
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C4 (261.63 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 34
-Playing A4 (440.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing A4 (440.00 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing D4 (293.66 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
-Playing B4 (493.88 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 35
-Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C5 (523.25 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 28
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 36
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Playing F4 (349.23 Hz) for 0.4s
-Playing G4 (392.00 Hz) for 0.4s
-Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 29
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 30
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 31
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 32
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 33
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 34
+Playing A4 (440.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing A4 (440.00 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing B4 (493.88 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 35
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C5 (523.25 Hz) for 0.4s
+Playing D4 (293.66 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): b
+Q-learning, episode 36
+Playing D4 (293.66 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing F4 (349.23 Hz) for 0.4s
+Playing G4 (392.00 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing E4 (329.63 Hz) for 0.4s
+Playing C4 (261.63 Hz) for 0.4s
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Playing D4 (293.66 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing F4 (349.23 Hz) for 0.4s
 Playing G4 (392.00 Hz) for 0.4s
@@ -1369,6 +1664,8 @@ Playing E4 (329.63 Hz) for 0.4s
 Playing E4 (329.63 Hz) for 0.4s
 Playing C4 (261.63 Hz) for 0.4s
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): Q-learning, episode 37
+Type your feedback good(g), bad(b), neutral(n), stop(s): g
+Q-learning, episode 37
 Playing D4 (293.66 Hz) for 0.4s
-Type your feedback good(g), bad(b), neutral(n), stop(s): DONE
+Type your feedback good(g), bad(b), neutral(n), stop(s): s
+DONE
