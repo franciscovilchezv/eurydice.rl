@@ -4,7 +4,7 @@ This project allows humans to teach a computer how to play music using Reinforce
 
 ## Installation
 
-You need to install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) for running this project.
+You may want to install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) for running this project.
 
 ### Create your conda enviroment
 
@@ -32,7 +32,7 @@ pip freeze > requirements.txt
 
 ## Execute
 
-This section explains how to run each of the functionalities available.
+This section explains how to run each of the functionalities available. Code is available in the [source](./source) directory.
 
 ```
 $ cd source
@@ -65,7 +65,7 @@ Run Q-learning algorithm with an automated reward which tries to teach the compu
 
 ![](./docs/examples/qlearningauto.gif)
 
-### Automated Q-learning w/ saving into a model
+### Automated Q-learning saving learning into a file
 
 You can save the training into a file in order to continue training later.
 
@@ -73,21 +73,27 @@ You can save the training into a file in order to continue training later.
 
 ![](./docs/examples/qlearningautomodel.gif)
 
-### Interactive Q-learning w/ saving into model
+### Interactive Q-learning saving learning into a file
 
-Instead of using the automated policy, you can five the reward by yourself to the computer. You may want to use the `--model` for saving the progress that you have done so far.
+Instead of using the automated policy, you can give the reward by yourself to the computer. You may want to use the `--model` for saving the progress that you have done so far.
 
 `python run_music_generation.py --interactive_mode --model <model>`
 
 ![](./docs/examples/qlearninginteractivemodel.gif)
 
-### Play optimal policy from a model
+### Play optimal policy from a file
 
-You can play optimal policy from a model.
+You can play optimal policy from a file with training progress.
 
 `python run_music_generation.py --model <model> --results`
 
 ![](./docs/examples/qlearningmodelresults.gif)
+
+###### Play the lick
+
+No one wants to hear [The Lick](https://youtu.be/krDxhnaKD7Q?t=63) again, but you can do it reproducing the results we have in `thelick` model.
+
+`python run_music_generation.py --model thelick --results`
 
 ### Automated Deep Q-learning
 
