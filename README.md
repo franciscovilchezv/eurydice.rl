@@ -63,7 +63,7 @@ Run Q-learning algorithm with an automated reward which tries to teach the compu
 
 `python run_music_generation.py --step 500 --episodes 2000`
 
-![](./docs/examples/qlearningauto.gif)
+![](https://user-images.githubusercontent.com/9200906/101970071-30b39080-3bf6-11eb-9c68-ab14af598f03.gif)
 
 ### Automated Q-learning saving learning into a file
 
@@ -71,7 +71,7 @@ You can save the training into a file in order to continue training later.
 
 `python run_music_generation.py --step 500 --episodes 2000 --model <model>`
 
-![](./docs/examples/qlearningautomodel.gif)
+![](https://user-images.githubusercontent.com/9200906/101970072-314c2700-3bf6-11eb-8fd8-e13cd34750ab.gif)
 
 ### Interactive Q-learning saving learning into a file
 
@@ -79,7 +79,7 @@ Instead of using the automated policy, you can give the reward by yourself to th
 
 `python run_music_generation.py --interactive_mode --model <model>`
 
-![](./docs/examples/qlearninginteractivemodel.gif)
+![](https://user-images.githubusercontent.com/9200906/101970074-327d5400-3bf6-11eb-8b04-776c8956b950.gif)
 
 ### Play optimal policy from a file
 
@@ -87,7 +87,7 @@ You can play optimal policy from a file with training progress.
 
 `python run_music_generation.py --model <model> --results`
 
-![](./docs/examples/qlearningmodelresults.gif)
+![](https://user-images.githubusercontent.com/9200906/101970076-33ae8100-3bf6-11eb-990f-3d17419e2a31.gif)
 
 ###### Play the lick
 
@@ -101,4 +101,4 @@ An approach using Neural Network for storing the rewards was created. Since resu
 
 `python run_music_generation.py --aprox_q_learning --step 500 --episodes 5000 --epsilon 0.3`
 
-![](./docs/examples/deeplearningauto.gif)
+![](https://user-images.githubusercontent.com/9200906/101970075-3315ea80-3bf6-11eb-832b-e5a91687f95e.gif)
