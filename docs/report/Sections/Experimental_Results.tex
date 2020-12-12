@@ -1,12 +1,12 @@
-In this project we were able to teach the computer what sequence of notes would have a pleasant sound according to our criteria, and by applying a greedy search the computer was able to generate those results successfully. As mentioned in the previous section, in this project we used Q-learning and Deep Q-learning, each of them gave us different results. We will show the results and discuss them in the following sections. Details regarding how to run each of the functionalities is available in the Github README file\footnote{README file with code details: https://github.com/franciscovilchezv/eurydice.rl/blob/main/README.md}
+In this project we were able to teach the computer what sequence of notes would have a pleasant sound according to our criteria, and by applying a greedy search the computer was able to generate those results successfully. As mentioned in the previous section, in this project we used Q-learning and Deep Q-learning. Each of them gave us different results. We will show the results and discuss them in this section. The information regarding how to run each of the functionalities is available in the Github README file\footnote{README file with code details: \href{https://github.com/franciscovilchezv/eurydice.rl/blob/main/README.md}{github.com/franciscovilchezv/eurydice.rl/blob/main/README.md}}
 
 \subsection*{Q-learning}
 Q-learning (storing results in a Q-table) provided the most accurate results for our project. The environment was adapted for testing purposes to only have one optimal policy and the Q-learning algorithm was able to find it. In order to speed up the testing process, an automated reward was generated. In this section we will discuss the results for the automated reward and the human-computer policy.
 
 \subsubsection*{Automated reward}
-A function that rewarded playing a note which was lower than the previous one was created in order to speed up testing during development.
+A function that rewarded playing a note  lower than the previous one was created in order to speed up testing during development.
 
-In musical terms, what this is trying to teach is a descendant scale. For that, we gave a $ -100 $ reward in case the algorithm played a note higher than the previous one, and a $ +10 $ if it played a note lower than the previous one. We could see that our algorithm was able to learn the optimal policy after $ 1500 $ iterations in average.
+In musical terms, what this is trying to teach is a descending scale. We gave a $ -100 $ reward in case the algorithm played a note higher than the previous one, and a $ +10 $ if it played a note lower than the previous one. We could see that our algorithm was able to learn the optimal policy after $ 1500 $ iterations in average.
 
 As we can see in Figure \ref{lst:it500}, the optimal policy was not found yet, since the algorithm is still deciding to use a higher note in the position 6 than the previous note (position 5).
 
@@ -41,7 +41,7 @@ In Listing \ref{lst:it1000} we notice that the algorithm finally found the optim
 \end{lstlisting}
   
 \subsection*{Human interaction training}
-For allowing an easy training after an action was taken, our project will display the notes generated so far and played. After that, the user is able to qualify the composition as \emph{Good}, \emph{Bad} or \emph{Neutral}. The process explained looks as shown in Listing \ref{lst:humanqlearn1}:
+For allowing an easy training after an action was taken, our project displays the notes generated so far and reproduces its sound. After that, the user is able to qualify the composition as \emph{Good}, \emph{Bad} or \emph{Neutral}. The process explained looks as shown in Listing \ref{lst:humanqlearn1}.
 
 \begin{lstlisting}[language=bash, caption=Human training for the first transition in an episode, style=mybashcode, label={lst:humanqlearn1}]
 > python run_music_generation.py --step 100 --episodes 200 --interactive_mode
@@ -52,7 +52,7 @@ For allowing an easy training after an action was taken, our project will displa
   Type your feedback good(g), bad(b), neutral(n), stop(s): g
 \end{lstlisting}
 
-We were able to teach a more interesting melody which is shown in Figure \ref{fig:thelick} using the human interaction training.
+We were also able to teach a more interesting musical phrase which is shown in Figure \ref{fig:thelick} using the human interaction training.
 
 \begin{figure}[ht]
   \begin{music}
@@ -82,9 +82,9 @@ We can see the result by using the \lstinline[style=mybashcode]{--results} optio
   Playing D4 (293.66 Hz) for 0.4s
   \end{lstlisting}
 
-Even though the algorithm is correctly learning values for notes, it is difficult to try to teach a second melody and store it in the q-table since the algorithm will act $\epsilon$-greedy. In order to try to store multiple melodies, a different exploration method must be used, otherwise we will always play either the optimal melody during training, or a completely random melody. Additionally, the results should be printed by randomly selecting from the best policies and not always the best policy in order to get some variation in the melodies generated.
+Even though the algorithm is correctly learning values for notes, it is difficult to try to teach a second melody and store it in the q-table since the algorithm will act $\epsilon$-greedily. In order to try to store multiple melodies, a different exploration method must be used, otherwise we will always play either the optimal melody during training, or a completely random melody. Additionally, the results should be printed by randomly selecting from the best policies and not the best policy most of the times, in order to get some variation in the melodies generated.
 
-The process followed for training ``the lick'' can be found in \emph{thelick.training} log file in Github\footnote{The Lick log: https://github.com/franciscovilchezv/eurydice.rl/blob/main/source/trainings/thelick.training}.
+The process followed for training ``the lick'' can be found in \emph{thelick.training} log file in Github\footnote{The Lick log: \href{https://github.com/franciscovilchezv/eurydice.rl/blob/main/source/trainings/thelick.training}{github.com/franciscovilchezv/eurydice.rl/blob/main/source/trainings/thelick.training}}.
 
 \subsection*{Deep Q-learning}
 After getting good results with Q-learning, we decided to expand it and test its behavior using a Neural Network for storing the values instead of the Q-table. It was executed with the parameters shown in Listing \ref{lst:deepqlearning}.
@@ -111,6 +111,6 @@ However, the results were not as good as expected. After running the algorithm w
   Playing C4 (261.63 Hz) for 0.4s
 \end{lstlisting}
 
-As we mentioned in previous section, we consider that the conversion of our state to the input of the neural network may not be the optimal, because of that, we are not getting the results that we were expecting. Additionally, the usage of RNN as mentioned in the state of art, could possibly lead to better results. Improvements and trying different methods for Deep Q-learning are still needed in order to continue expanding its capabilities.
+We consider that the conversion of our state to the input of the neural network may not be the best, because of that, we are not getting the results that we were expecting. Additionally, the usage of RNN as mentioned in the state of art, could possibly lead to better results. Improvements and trying different methods for Deep Q-learning are still needed in order to continue expanding its capabilities.
 
 Previous works in the area got different results since they are relying on the usage of music theory, which is what we are trying to avoid in the training process since we consider it will provide more \emph{natural} results. Improvements in this project need to be done in order to be competitive with results from the current state of art.

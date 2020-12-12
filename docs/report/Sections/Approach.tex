@@ -1,10 +1,10 @@
 % Music Latex Library used:
 % https://mirrors.rit.edu/CTAN/macros/musixtex/doc/musixdoc.pdf
 
-As mentioned before, \emph{Q-learning} and \emph{Deep Q-learning} were applied in this project, each of them getting different results. In the next sections we will describe each of the components of our Reinforcement Learning algorithm applied to the Musical composition environment. Additionally, we will detail the constraints applied, at the time of writing this reports, that were used in the project in order to reduce its scope.
+As mentioned before, \emph{Q-learning} and \emph{Deep Q-learning} were applied in this project, each of them getting different results. In the next sections we will describe each of the components in our Reinforcement Learning algorithm applied to the Musical composition environment. Additionally, we will detail the constraints that were applied in the project in order to reduce its scope.
 
 \subsection*{State}
-The state in out Reinforcement Learning model is defined by the sequence of notes that have been player so far. For example, an starting state can be seen in Figure \ref{fig:state1}:
+The state in out Reinforcement Learning model is defined by the sequence of notes that have been player so far. For example, an starting state can be seen in Figure \ref{fig:state1}.
 
 \begin{figure}[ht]
   \begin{music}
@@ -18,7 +18,7 @@ The state in out Reinforcement Learning model is defined by the sequence of note
   \label{fig:state1}
 \end{figure}
 
-If we decide to play another note after it, then the new state will be represented by both notes (all the notes played so far). We can see an example in Figure \ref{fig:state2}:
+If we decide to play another note after it, then the new state will be represented by both notes (all the notes played so far). We can see an example in Figure \ref{fig:state2}.
 
 \begin{figure}[ht]
   \begin{music}
@@ -44,7 +44,7 @@ However, a \emph{note} does not only refer to the pitch that is played. It invol
 Because of that, we will provide more information about what information about the note we are using in its representation and the way it is being encoded in our algorithm.
 
 \subsubsection*{Note representation}
-Numerical notation is a representation for notes that has been widely used in previous works \cite{biles2013lessons}. The idea is to use a specific note to represent each of the notes. However, using a specific number for each note will constraint the learning process to the specific characteristic of the current environment, like tonality in which the model is training, or the harmonic sequence; because of that, we are suggesting the usage of a relative value of the note according to the harmony and tonality of the composition. For example, we can see the encoding for one note in Figure \ref{fig:state3}:
+Numerical notation is a representation for notes that has been widely used in previous works \cite{biles2013lessons}. The idea is to use a specific number to represent each of the notes. However, using a number for each note will constraint the learning process to the specific characteristics of the current environment, like the tonality in which the model is training, or the harmonic sequence; because of that, we are suggesting the usage of a relative value of the note according to the harmony and tonality of the composition. For example, we can see the encoding for one note in Figure \ref{fig:state3}.
 
 \begin{figure}[ht]
   \begin{music}
@@ -57,7 +57,7 @@ Numerical notation is a representation for notes that has been widely used in pr
   \label{fig:state3}
 \end{figure}
 
-However, the same note will have a different encoding if we are in a different tonality, as we can see in Figure \ref{fig:state4}
+However, the same note will have a different encoding if we are in a different tonality, as we can see in Figure \ref{fig:state4}.
 
 \begin{figure}[ht]
   \begin{music}
@@ -70,16 +70,16 @@ However, the same note will have a different encoding if we are in a different t
   \label{fig:state4}
 \end{figure}
 
-At the time of writing this report, only pitch is being taking into consideration in the note encoding. Updates regarding the encoding of notes and other possible changes are visible in the project's release page\footnote{Releases available at: https://github.com/franciscovilchezv/eurydice.rl/releases}.
+At the time of writing this report, only pitch is being taking into consideration in the note encoding. Updates regarding the encoding of notes and other possible changes are visible in the project's release page\footnote{Releases available at: \href{https://github.com/franciscovilchezv/eurydice.rl/releases}{github.com/franciscovilchezv/eurydice.rl/releases}}.
 
 \subsubsection*{Goal State}
-Compositions are usually defined by a specific number of \emph{bar} that we to compose in. For example, a jazz soloist will may have to immediately compose a melody that fits into 16 musical bar during a jam session. If we now the time signature of the composition we are trying to create and the number of musical bar, then we can know how many musical times we need to complete and based on that determine if we reached our goal state. At the time of writing this report, the goal state was defined by a fixed number of notes in an hyperparameter variable.
+Compositions are usually defined by a specific number of \emph{bar}s that we need to compose in. For example, a jazz soloist will may have to immediately compose a melody that fits into 16 musical \emph{bar}s during a jam session. If we know the \emph{time signature} of the composition we are composing on, and the number of musical bars, then we can know how many musical times we need to complete and based on that determine if we reached our goal state. At the time of writing this report, the goal state was defined by a fixed number of notes in an hyperparameter variable.
 
 \subsection*{Q-learning}
-In this project \emph{Q-learning} was used as our reinforcement learning algorithm. Since the number of states is determined by the possible amount of notes combinations that we can make, our total amount of states can be too large to be stored in memory. Because of that, Q-learning allow us to learn base on experience and only store those values. We will give more detail of the components in our Q-learning algorithm in the following sections
+In this project \emph{Q-learning} was used as our reinforcement learning algorithm. Since the number of states is determined by the possible amount of note combinations that we can make, our total amount of states can be too large for storing it in memory. Because of that, Q-learning allows us to learn base on experience and thus, only store values experienced. We will give more detail about the components in our Q-learning algorithm in this section.
 
 \subsubsection*{Actions}
-As we mentioned in previous sections, the action is the possible note that can be used based on our previous state. Without getting into any musical theory detail, we could say that any note could follow any other note. Because of that, the range of possible actions is also very broad. In order to simplify the scope of our project, for now we are only dealing with notes from the C Major tonality ranged in 1 musical scale. In other words, the notes C4 D4 E4 F4 G4 A4 B4 C5. 
+As we mentioned, the action is the possible note that can be played based on our current state. Without getting into any musical theory detail, we could say that any note could follow any other note. Because of that, the range of possible actions is also very broad. In order to simplify the scope of our project, for now we are only dealing with notes from the C Major tonality ranged in one musical scale. In other words, the notes C4 D4 E4 F4 G4 A4 B4 C5 as shown in Figure \ref{fig:actions}.
 
 \begin{figure}[ht]
   \begin{music}
@@ -92,18 +92,18 @@ As we mentioned in previous sections, the action is the possible note that can b
   \label{fig:actions}
 \end{figure}
 
-However, this restriction may be ignored in the future since we should not limit the possible notes that we could use because it may or may not sound good according to the user training the algorithm. $\epsilon$-greedy was used as our exploration method in our Q-learning algorithm.
+However, this restriction will be ignored in the future since we should not limit the possible notes that we can use. $\epsilon$-greedy was used as our exploration method in our Q-learning algorithm.
 
 \subsubsection*{Transition Reward}
-The score of choosing an action over another is determined by the feedback that the user gives for the melody created so far.Each time an action is selected, the program asks the user to qualify it as:
+The given reward by choosing an action over another is determined by the feedback that the user gives for the melody created so far. Each time an action is selected, the program asks the user to qualify it as:
 
 \begin{description}
-  \item [Good] If the composition is pleasant so far and the user would like to hear in future occasions. Positive reward given.
+  \item [Good] If the composition is pleasant so far and the user would like to hear it in future occasions. Positive reward given.
   \item [Neutral] If the melody does not have a pleasant or unpleasant sound so far, so it is not possible to decide yet if you like it or not. No reward given.
   \item [Bad] If the melody sounds terrible and the algorithm should avoid to play that action in the previous state. Negative reward given.
 \end{description}
 
-During the development of this project, giving manual rewards would delay the initial steps in the creation of the algorithm, since giving manual reward takes a lot of time because the user needs to listen to every melody generated and give a reward based on that. Due to this reason, an automated reward was included for testing purposes, in which a basic musical criteria is followed for giving the rewards. For example, rewarding positively only if the notes are in descendent order.
+During the development of this project we noticed that giving manual rewards would delay the initial steps in the creation of the algorithm since it takes a lot of time because the user needs to listen to every melody generated and give a reward based on that. Due to this reason, an automated reward was included for testing purposes, in which a basic musical criteria is followed for giving the rewards. For example, rewarding positively only if the notes are in a descending order.
 
 \subsubsection*{Q-table and Neural Networks}
-Rewards for each action taken from a specific state were initially stored in a Q-table. After having that behavior we replaced it with Neural Networks in order to try to improve the results. According previous works, it is considered that Recurrent Neural Networks provide the best results in the area of musical composition, however, we started with Neural Networks and we are considering changing that into Recurrent Neural Networks in a future. The Neural Network has X units as input, where X is equal of the number of notes that will determine a Goal State in our algorithm. During testing, we limited the number of notes that we can use to a total of 8 notes. The numerical note values are used as input of the neural network.
+Rewards for each action taken from a specific state were initially stored in a Q-table. After confirming it was working as expected, we replaced it with Neural Networks in order to try to improve the results. According previous works, it is considered that Recurrent Neural Networks provide the best results in the area of musical composition, however, we started with Neural Networks and we are considering changing that into Recurrent Neural Networks in a future. The Neural Network has X units as input, where X is equal of the number of notes that will determine a Goal State in our algorithm. During testing, we limited the number of notes that we can use to a total of 8 notes. The numerical note values are used as input of the neural network.
